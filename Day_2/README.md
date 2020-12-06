@@ -1,5 +1,5 @@
 # 2020 Day 2: Password Philosophy 
-#### [Direct Link](https://adventofcode.com/2020/day/1)
+#### [Direct Link](https://adventofcode.com/2020/day/2)
 
 ## Part 1
 
