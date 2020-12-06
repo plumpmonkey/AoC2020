@@ -57,7 +57,7 @@ def main():
     with open(inputfile) as f:
         data = f.read().splitlines()
 
-        # part1(data)
+        part1(data)
         part2(data)
 
 if __name__ == "__main__":
